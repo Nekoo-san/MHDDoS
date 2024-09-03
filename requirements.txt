@@ -4,7 +4,7 @@ dnspython
 requests
 impacket
 psutil
-icmplib
+icmplib>=2.1.1
 pyasn1
 pyroxy @ git+https://github.com/MatrixTM/PyRoxy.git
 yarl
